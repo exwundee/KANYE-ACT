@@ -1,0 +1,18 @@
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\bin\Debug\KANYE ACT.exe.config
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\bin\Debug\KANYE ACT.exe
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\bin\Debug\KANYE ACT.pdb
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\bin\Debug\KANYE ACT.xml
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.vbprojAssemblyReference.cache
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\MainWindow.g.vb
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\Application.g.vb
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT_MarkupCompile.cache
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT_MarkupCompile.lref
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\MainWindow.baml
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.g.resources
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE_ACT.Resources.resources
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.vbproj.GenerateResource.cache
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.vbproj.CoreCompileInputs.cache
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.exe
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.xml
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT.pdb
+C:\Users\alteni75\source\repos\KANYE ACT\KANYE ACT\obj\Debug\KANYE ACT_Content.g.vb
